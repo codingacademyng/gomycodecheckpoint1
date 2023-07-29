@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.9.4",
+    "password-generator": "^2.3.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "checkpoint",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
